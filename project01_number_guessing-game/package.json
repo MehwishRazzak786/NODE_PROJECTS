@@ -1,9 +1,12 @@
 {
-  "name": "@mehwish_razzak/simple-commandline-calculator",
-  "version": "3.0.3",
-  "description": "A simple calculator using Typescript, Node.js and Inquirer.",
+  "name": "@mehwish_razzak/number_guessing-game",
+  "version": "2.0.1",
+  "description": "This is CLI based numbers guessing game.",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

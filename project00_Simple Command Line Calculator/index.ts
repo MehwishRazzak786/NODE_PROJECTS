@@ -22,7 +22,7 @@ const answer = await inquirer.prompt([
         chalk.yellow('Addition: (+)'),
         chalk.magenta('Subtraction: (-)'),
         chalk.cyan('Multiplication: (*)'),
-        chalk.greenBright('Division: (/)'),
+        chalk.green('Division: (/)'),
         chalk.whiteBright('Remainder: (%)')
     ],
   },
