@@ -3,12 +3,12 @@ Welcome to the To-Do List Application! Keep track of your tasks efficiently with
 # Installation
 You can install the To-Do List Application via npm:
 
-npm i @mehwish_razzak/todo_list_app
+    npm i @mehwish_razzak/todo_list_app
 
 # Usage
 To start managing your to-do list, run the following command in your terminal:
 
-npx @mehwish_razzak/todo_list_app
+    npx @mehwish_razzak/todo_list_app
 
 
 Follow the on-screen prompts to add, view, update, or delete tasks from your list.
