@@ -5,14 +5,14 @@ This is the Currency Converter Application! Easily convert between different cur
 You can install the Currency Converter via npm:
 
 
-npm i @mehwish_razzak/currency_converter_app
+     npm i @mehwish_razzak/currency_converter_app
 
 
 # Usage
 To start converting currencies, run the following command in your terminal:
 
 
-npx @mehwish_razzak/currency_converter_app
+    npx @mehwish_razzak/currency_converter_app
 
 
 Follow the on-screen prompts to select the currencies you're converting between and enter the amount.
