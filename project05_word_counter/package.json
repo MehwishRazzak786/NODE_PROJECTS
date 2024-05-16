@@ -1,6 +1,6 @@
 {
   "name": "@mehwish_razzak/word_counter_app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is CLI based word-counter application.",
   "main": "index.js",
   "type": "module",
