@@ -1,6 +1,6 @@
 {
   "name": "@mehwish_razzak/adventure_game",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is CLI Based Adventure Game.",
   "main": "index.js",
   "type": "module",
