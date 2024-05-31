@@ -1,6 +1,6 @@
 {
   "name": "@mehwish_razzak/quiz_app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is CLI Based Quiz Application.",
   "main": "index.js",
   "type": "module",
