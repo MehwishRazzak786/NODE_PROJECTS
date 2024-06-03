@@ -1,11 +1,13 @@
 {
   "name": "@mehwish_razzak/countdown_timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is CLI Based COUNTDOWN_TIMER Application.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
-  "publishConfig": {"access": "public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
